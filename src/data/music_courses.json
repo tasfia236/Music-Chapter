@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "title": "Mastering the Guitar: Beginner to Pro",
+      "slug": "mastering-the-guitar",
+      "description": "Learn the essentials of playing the guitar, from chords to advanced techniques.",
+      "price": 49.99,
+      "instructor": "John Smith",
+      "isFeatured": true,
+      "image": "https://example.com/images/mastering-the-guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "A complete guide to learning the piano for absolute beginners.",
+      "price": 39.99,
+      "instructor": "Jane Doe",
+      "isFeatured": false,
+      "image": "https://example.com/images/piano-for-beginners.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Art of Singing",
+      "slug": "the-art-of-singing",
+      "description": "Unlock your vocal potential with this comprehensive singing course.",
+      "price": 59.99,
+      "instructor": "Emily Davis",
+      "isFeatured": true,
+      "image": "https://example.com/images/the-art-of-singing.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Music Theory Essentials",
+      "slug": "music-theory-essentials",
+      "description": "Understand the fundamentals of music theory to enhance your skills.",
+      "price": 29.99,
+      "instructor": "Michael Brown",
+      "isFeatured": false,
+      "image": "https://example.com/images/music-theory-essentials.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Drumming Basics: Rhythm and Groove",
+      "slug": "drumming-basics",
+      "description": "Start your drumming journey with this beginner-friendly course.",
+      "price": 34.99,
+      "instructor": "Alex Wilson",
+      "isFeatured": true,
+      "image": "https://example.com/images/drumming-basics.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Songwriting Masterclass",
+      "slug": "songwriting-masterclass",
+      "description": "Learn the art of writing songs that resonate with listeners.",
+      "price": 69.99,
+      "instructor": "Sara Johnson",
+      "isFeatured": true,
+      "image": "https://example.com/images/songwriting-masterclass.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Create stunning electronic music tracks with industry-standard tools.",
+      "price": 99.99,
+      "instructor": "David Lee",
+      "isFeatured": false,
+      "image": "https://example.com/images/electronic-music-production.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Jazz Improvisation Techniques",
+      "slug": "jazz-improvisation-techniques",
+      "description": "Master the art of improvisation in jazz music.",
+      "price": 89.99,
+      "instructor": "Linda Carter",
+      "isFeatured": true,
+      "image": "https://example.com/images/jazz-improvisation-techniques.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Violin for Beginners",
+      "slug": "violin-for-beginners",
+      "description": "Learn how to play the violin with this step-by-step course.",
+      "price": 44.99,
+      "instructor": "Karen Hall",
+      "isFeatured": false,
+      "image": "https://example.com/images/violin-for-beginners.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Orchestral Composition Mastery",
+      "slug": "orchestral-composition-mastery",
+      "description": "Compose orchestral pieces with this advanced composition course.",
+      "price": 119.99,
+      "instructor": "Robert King",
+      "isFeatured": true,
+      "image": "https://example.com/images/orchestral-composition-mastery.jpg"
+    }
+  ]
+  
