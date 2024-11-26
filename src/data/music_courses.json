@@ -1,4 +1,5 @@
-[
+{
+  "courses": [
     {
       "id": 1,
       "title": "Mastering the Guitar: Beginner to Pro",
@@ -100,4 +101,4 @@
       "image": "https://example.com/images/orchestral-composition-mastery.jpg"
     }
   ]
-  
+}
