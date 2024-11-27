@@ -3,9 +3,6 @@ import Link from "next/link";
 import courseData from "../data/music_courses.json";
 import { BackgroundGradient } from "./ui/background-gradient";
 
-
-import { p } from "framer-motion/client";
-
 interface Course {
     id: number,
     title: string,
